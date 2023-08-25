@@ -1,6 +1,6 @@
 # Commodore Component: foo-test
 
-This is a [Commodore][commodore] Component for foo-test.
+This is a [Commodore][commodore] Component for foo-test. Yeah!
 
 This repository is part of Project Syn.
 For documentation on Project Syn and this component, see https://syn.tools.
