@@ -1,0 +1,4 @@
+parameters:
+  foo_test:
+    =_metadata: {}
+    namespace: syn-foo-test

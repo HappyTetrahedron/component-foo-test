@@ -1,0 +1,5 @@
+= foo-test
+
+foo-test is a Commodore component to manage foo-test.
+
+See the xref:references/parameters.adoc[parameters] reference for further details.
